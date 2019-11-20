@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486716585227",
+    "firebase_url": "https://training-android-lanjutan-ima.firebaseio.com",
+    "project_id": "training-android-lanjutan-ima",
+    "storage_bucket": "training-android-lanjutan-ima.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486716585227:android:c03392368abffaa18f9e0e",
+        "android_client_info": {
+          "package_name": "com.myapplication.made.firebaseoktoberprojeksendiri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486716585227-bm6igr0a4gqimlm6suknd1nmrrdumvh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapplication.made.firebaseoktoberprojeksendiri",
+            "certificate_hash": "7333cc1124a67fa87dac7d51cf3e3452b4784522"
+          }
+        },
+        {
+          "client_id": "486716585227-bv1l109049vn4qg43qacnvj05f23csm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjH5VoDtOCZzSdlkZpiostumbdJiYwqts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486716585227-bv1l109049vn4qg43qacnvj05f23csm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
